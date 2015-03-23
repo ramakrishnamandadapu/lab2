@@ -11,7 +11,8 @@ Assuming you added the grpc-java libray folder to this project and you would fir
 by running
 
 ```
-$ ./gradlew :grpc-examples:pollSeviceServer
+$ ./gradlew :grpc-examples:pollServiceServer
+
 ```
 
 and in a different terminal window then run the poll service client by typing
